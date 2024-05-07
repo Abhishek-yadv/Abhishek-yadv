@@ -23,7 +23,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Abhishek-yadv&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='http://http://dev-memer.info/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhishek-yadv&icon=0&color=0)](https://visitcount.itsvg.in)

@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Actively seeking opportunities to build with Python after completing my master's in Mathematics..<br><br>👀  Passionate about Python development, leveraging my mathematical background to create robust and efficient solutions.<br><br>📫 Reach me at ay29020@gmail.com<br><br>💬 Ask me about Python<br><br>⚡Fun fact: I'm more curious than you might think!
+🌱 Actively seeking opportunities to build with Python after completing my master's in Mathematics..<br><br>👀  Passionate about Building Stuffs<br><br>📫 Reach me at ay29020@gmail.com<br><br>💬 Ask me about Python<br><br>⚡Fun fact: I'm more curious than you might think!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishekyadv/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Automatic-Storm-8396/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/abhishek__AI) 

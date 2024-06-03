@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Actively seeking opportunities to Build stuff with Python after pursuing my master's in Mathematics.<br><br>👀 Enthusiast for Python, SQL, PowerBI and the art of storytelling for data-driven decision-making.<br><br>📫 Reach me at ay29020@gmail.com<br><br>💬 Ask me about Data Analysis<br><br>⚡ Fun fact: I'm more questionable than you might think!
+🌱 Actively seeking opportunities to Build stuff with Python after pursuing my master's in Mathematics.<br><br>👀 Enthusiast for Python, SQL, PowerBI and the art of storytelling for data-driven decision-making.<br><br>📫 Reach me at ay29020@gmail.com<br><br>💬 Ask me about Python<br><br>⚡ Fun fact: I'm more questionable than you might think!
 
 
 ## 🌐 Socials:
